@@ -121,6 +121,7 @@ A documentação completa está organizada na pasta **docs**, contendo:
 * Luis Fellipe Barbosa Gomes
 * Kayo Gonzaga de Lima
 * Maria Luiza Taques da Silva
+* Guilherme Vinicius da Silva Correa
 
 ## 📌 Versão
 
