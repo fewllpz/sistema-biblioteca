@@ -19,3 +19,6 @@
 O bibliotecário é responsável pelo cadastro dos livros e usuários, além de registrar empréstimos e devoluções.
 
 O aluno pode consultar livros disponíveis, realizar empréstimos e devolver livros.
+## Diagrama UML
+
+![Diagrama de Casos de Uso](diagrama-casos-de-uso.png.drawio)
