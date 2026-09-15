@@ -23,3 +23,7 @@ Permite registrar o empréstimo de um livro para um usuário.
 ## Tela de Devolução
 
 Permite registrar a devolução de um livro.
+
+## Imagem da Tela Inicial
+
+![Tela inicial do Sistema de Biblioteca](ChatGPT%20Image%2015%20de%20set.%20de%202026%2C%2011_02_55.png)
